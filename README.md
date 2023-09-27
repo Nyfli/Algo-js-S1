@@ -1,2 +1,2 @@
-# Algo-js
-Maxime Bourg : Algorithmie Javascrypt, IIM 1er année
+# Algo-js-S1
+Maxime Bourg : Algorithmie Javascrypt S1, IIM 1er année
